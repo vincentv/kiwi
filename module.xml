@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module xmlns="http://jelix.org/ns/module/1.0">
+    <info id="kiwi" name="kiwi" createdate="2011-05-20">
+        <version>0.1pre</version>
+        <label lang="en_EN">kiwi</label>
+        <description lang="en_EN" />
+        <copyright>2011 Vincentv</copyright>
+        <creator name="Vincentv" email="em.maps.42@gmail.com" active="true"/>
+        <!--<contributor name="hisname" email="hisemail@yoursite.undefined" active="true" since="" role=""/>-->
+        <homepageURL>https://github.com/vincentv/kiwi</homepageURL>
+    </info>
+    <dependencies>
+        <jelix minversion="1.3pre.1931" maxversion="1.3pre.*"/>
+    </dependencies>
+</module>
