@@ -1,6 +1,6 @@
 # Kiwi
 
-Un wiki utilisant git sous forme de module Jelix
+Un module jelix pour faire des tits wiki avec git
 
 ## Requis
 
